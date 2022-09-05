@@ -1,7 +1,7 @@
-![WELCOME](https://user-images.githubusercontent.com/112865144/188465114-be24d914-200f-4fef-9119-8c8bf6e16e3c.png)
-About Me
+<h1 align="center">Hi, I am Satyam Vyas</h1>
+<h3 align="center">A Computer Science Student from India</h3>
 
-- 👋 Hi, I’m Satyam Vyas...
+- 👋 Hi, I’m @SatyamVyas04
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python(Pandas, Matplotlib, Django) and C
 - 💞️ I’m looking to collaborate on some automation projects using Python
