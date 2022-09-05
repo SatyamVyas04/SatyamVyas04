@@ -8,4 +8,4 @@ About Me
 - 📫 To contact me, Email me at vyas.satyam.04@gmail.com
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamvyas04&layout=compact)](https://github.com/satyamvyas04/github-readme-stats)!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamvyas04&layout=compact)](https://github.com/satyamvyas04/github-readme-stats)
