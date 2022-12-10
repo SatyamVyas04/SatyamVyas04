@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @SatyamVyas04.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Python(Pandas, Matplotlib, Django) and C Programming.
-- 💞️ I’m looking to collaborate on some automation projects using Python.
+- 💞️ I’m looking to collaborate work on some projects.
 - 📫 To contact me, Email me at vyas.satyam.04@gmail.com.
 
 <h3 align="left">Languages and Tools:</h3>
