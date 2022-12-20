@@ -13,7 +13,7 @@
  alt="satyam-vyas" height="40" width="40" /></a>
   <a href="https://www.codechef.com/users/satyam_vyas_04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="satyam_vyas_04" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="satyam_vyas_04" height="40" width="40" /></a>
-  <a href="https://www.leetcode.com/satyam_vyas_04" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="satyam_vyas_04" height="40" width="40" style=”border:5px solid #000000; padding:3px; margin:5px” /></a>
+  <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3627112-3029520.png" alt="satyam_vyas_04" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
