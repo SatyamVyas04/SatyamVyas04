@@ -26,6 +26,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ---
-[![](https://visitcount.itsvg.in/api?id=SatyamVyas04&icon=5&color=8)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
