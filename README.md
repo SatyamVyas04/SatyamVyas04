@@ -1,4 +1,6 @@
-![Header](https://github.com/SatyamVyas04/SatyamVyas04/assets/112865144/0477ee86-b4bf-4b87-a455-5fdc808ecd9a)
+![Header](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
+<h4 align="center">Hello There! I'm</h3>
+<h1 align="center">Satyam Vyas</h3>
 <h3 align="center">A Computer Science Engineering (CSE) Student from India </h3>
 
 
@@ -21,10 +23,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamVyas04&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
