@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I am Satyam Vyas</h1>
+![Header](https://github.com/SatyamVyas04/SatyamVyas04/assets/112865144/b0eb7a81-99a9-477f-ad8c-cc1b080a29c9)
+
 <h3 align="center">A Computer Science Engineering (CSE) Student from India </h3>
 
 - Learning WebDevelopment<br>
