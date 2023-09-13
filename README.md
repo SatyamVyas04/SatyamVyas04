@@ -1,6 +1,6 @@
-![Header](https://github.com/SatyamVyas04/SatyamVyas04/assets/112865144/b0eb7a81-99a9-477f-ad8c-cc1b080a29c9)
-
+![Header](https://github.com/SatyamVyas04/SatyamVyas04/assets/112865144/0477ee86-b4bf-4b87-a455-5fdc808ecd9a)
 <h3 align="center">A Computer Science Engineering (CSE) Student from India </h3>
+
 
 - Learning WebDevelopment<br>
 - Doing quite a bit of Competitive Coding<br>
