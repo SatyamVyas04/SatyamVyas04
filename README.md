@@ -1,6 +1,6 @@
-Hello There! <img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif'>
-![](https://raw.githubusercontent.com/SatyamVyas04/SatyamVyas04/main/Github%20Banner.png)
+<p align='center'><em><strong>Hello There! </strong></em><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='40'></p>
 
+![](/Github%20Banner.png)
 
 <img width="30%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
