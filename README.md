@@ -1,14 +1,16 @@
-![Header](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
-<h4 align="center">Hello There! I'm</h3>
-<h1 align="center">Satyam Vyas</h3>
-<h3 align="center">A Computer Science Engineering (CSE) Student from India </h3>
+Hello There! <img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif'>
+<h1>I am Satyam Vyas</h3>
+<h3>A Computer Science Engineering (CSE) Student from India </h3>
 
 
-- Learning WebDevelopment<br>
-- Doing quite a bit of Competitive Coding<br>
-- Looking forward to Collaborate...<br>
-- [-_-]
+<img width="30%" align="right" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
+---
+- Competitive Programmer (2 Star on CodeChef)
+- Currently learning Web Development and DSA
+- I’m looking to collaborate on projects, tech articles
+- Python <3
+  
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/satyam-vyas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
