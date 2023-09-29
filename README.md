@@ -1,11 +1,10 @@
 Hello There! <img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif'>
-<h1>I am Satyam Vyas</h3>
-<h3>A Computer Science Engineering (CSE) Student from India </h3>
+![](https://github.com/SatyamVyas04/SatyamVyas04/blob/main/Github%20Banner.png)
 
 
 <img width="30%" align="right" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
----
+
 - Competitive Programmer (2 Star on CodeChef)
 - Currently learning Web Development and DSA
 - I’m looking to collaborate on projects, tech articles
