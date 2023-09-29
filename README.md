@@ -37,8 +37,7 @@ Hello There! <img src='https://user-images.githubusercontent.com/74038190/241763
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamVyas04&theme=tokyonight&hide_border=false)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
----
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=donut&theme=radical" height=220/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=radical&rank_icon=percentile" height='220'/>
+</p>
