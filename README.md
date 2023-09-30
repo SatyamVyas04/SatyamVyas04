@@ -38,6 +38,7 @@
 
 ### 📊 GitHub Stats:
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=donut&theme=radical" height='175'/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=radical&rank_icon=percentile" height='175'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=donut&theme=dracula" height='200'/>
+  <img align='center' src='https://streak-stats.demolab.com?user=SatyamVyas04&theme=dracula&border_radius=4.5&date_format=j%20M%5B%20Y%5D' height='200'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=dracula&rank_icon=percentile" height='200'/>
 </p>
