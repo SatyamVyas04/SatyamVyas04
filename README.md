@@ -4,13 +4,10 @@
 
 <img width="30%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
-
-<dl align="right">
-  <dt>Competitive Programmer (2 Star on CodeChef)</dt>
-  <dt>Currently learning Web Development and DSA</dt>
-  <dt>I’m looking to collaborate on projects, tech articles</dt>
-  <dt>Python &lt;3</dt>
-</dl>
+<p align='right'><em><strong>Competitive Programmer (2 Star on CodeChef)</strong></em></p>
+<p align='right'><em><strong>Currently learning Web Development and DSA</strong></em></p>
+<p align='right'><em><strong>I’m looking to collaborate on projects, tech articles</strong></em></p>
+<p align='right'><em><strong><code>return Python == <3</code></strong></em></p>
 
   
 <h3 align="right">Connect with me</h3>
