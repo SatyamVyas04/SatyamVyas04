@@ -2,7 +2,7 @@
 
 ![](https://drive.google.com/uc?export=view&id=1O21oNCgGJW3MDMQFGbA1eag7vLBDOmJF)
 
-<img width="30%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
+<img width="45%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align='right'><em><strong>Competitive Programmer (2 Star on CodeChef)</strong></em></p>
 <p align='right'><em><strong>Currently learning Web Development and DSA</strong></em></p>
@@ -21,7 +21,7 @@
 
 --- 
 
-<img width="40%" align="right" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img width="25%" align="right" alt="side picture" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
 ### 💻 Tech Stack:
 
