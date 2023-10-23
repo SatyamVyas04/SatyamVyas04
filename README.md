@@ -38,5 +38,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=dracula&rank_icon=percentile" height='200'/>
 </p>
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=SatyamVyas04&style=for-the-badge&color=343434" width='20%'/>
+  <img src="https://komarev.com/ghpvc/?username=SatyamVyas04&style=for-the-badge&color=343434"/>
 </p>
