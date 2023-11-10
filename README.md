@@ -40,7 +40,7 @@
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=donut&theme=dracula&hide_border=true" height='200'/>
-  <img align='center' src='https://streak-stats.demolab.com?user=SatyamVyas04&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600' height='200'>
+  <img align='center' src='https://streak-stats.demolab.com?user=SatyamVyas04&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500' height='200'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=dracula&rank_icon=percentile&hide_border=true" height='200'/>
 </p>
 
