@@ -1,7 +1,4 @@
 <p align='center'><em><strong>Hello There! </strong></em><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='40'></p>
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=SatyamVyas04&style=for-the-badge&color=343434"/>
-</p>
 
 
 ![](https://drive.google.com/uc?export=view&id=1O21oNCgGJW3MDMQFGbA1eag7vLBDOmJF)
@@ -46,5 +43,10 @@
   
 </p>
 
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=SatyamVyas04&style=for-the-badge&color=343434"/>
+</p>
 
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient" width='100%' />
 
