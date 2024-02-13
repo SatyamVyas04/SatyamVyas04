@@ -27,12 +27,12 @@
 | Languages        | ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)                                                                                                                                                                                                                      |
 | Python           | ![My Skills](https://skillicons.dev/icons?i=regex,anaconda) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=44/> |
 | FrontEnd         | ![My Skills](https://skillicons.dev/icons?i=js,html,css)                                                                                                                                                                                                                        |
-| Libraries        | ![My Skills](https://skillicons.dev/icons?i=react,tailwind,sass,materialui&perline=4)                                                                                                                                                                                           |
+| Libraries        | ![My Skills](https://skillicons.dev/icons?i=react,tailwind,sass,materialui)                                                                                                                                                                                           |
 | Databases        | ![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)                                                                                                                                                                                                                       |
 | OperatingSystems | ![My Skills](https://skillicons.dev/icons?i=linux) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=44 />                                                                                                              |
 | Shell            | ![My Skills](https://skillicons.dev/icons?i=pwsh,bash)                                                                                                                                                                                                                          |
 | VersionControl   | ![My Skills](https://skillicons.dev/icons?i=git,github)                                                                                                                                                                                                                         |
-| Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,svg,blender,netlify&perline=4)                                                                                                                                                                               |
+| Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,svg,blender,netlify)                                                                                                                                                                               |
 
 ---
 
@@ -41,10 +41,10 @@
 [![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&langs_count=15&layout=donut&theme=dracula&hide_border=true" height='300'/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height='300'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=pie&theme=dracula&hide_border=true" height='200'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyamVyas04&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height='200'/>
+  <img align='center' src='https://streak-stats.demolab.com?user=SatyamVyas04&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500' height='200'>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamVyas04&theme=dracula"/>
-  <img align='center' src='https://streak-stats.demolab.com?user=SatyamVyas04&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500' height='300'>
   
 </p>
 
