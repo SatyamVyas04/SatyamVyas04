@@ -32,7 +32,7 @@
 | OperatingSystems | ![My Skills](https://skillicons.dev/icons?i=linux) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=44 />                                                                                                              |
 | Shell            | ![My Skills](https://skillicons.dev/icons?i=pwsh,bash)                                                                                                                                                                                                                          |
 | VersionControl   | ![My Skills](https://skillicons.dev/icons?i=git,github)                                                                                                                                                                                                                         |
-| Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,svg,blender,netlify&perline=4)                                                                                                                                                                               |
+| Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,blender&perline=4)                                                                                                                                                                               |
 
 ---
 
