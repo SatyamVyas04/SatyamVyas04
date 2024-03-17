@@ -42,6 +42,8 @@
 
 <p align='center'>
   <img align="center" src="https://myreadme.vercel.app/api/embed/SatyamVyas04?panels=userstatistics,toprepositories,toplanguages"/>
+  <br />
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamVyas04&layout=pie&theme=dracula&hide_border=true" height='300'/>
   <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=nord&font=Inconsolata&ext=heatmap" height="300"/>
   
