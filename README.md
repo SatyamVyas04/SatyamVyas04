@@ -41,9 +41,9 @@
 [![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
 
 <p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg#gh-dark-mode-only" height='250'/>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='250'/>
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=nord&font=Inconsolata&ext=heatmap" height="250"/>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg#gh-dark-mode-only" height='225'/>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='225'/>
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=nord&font=Inconsolata&ext=heatmap" height="225"/>
   
 </p>
 
