@@ -6,7 +6,7 @@
 <p align='right'><em><strong>I’m looking to collaborate on Projects :) </strong></em></p>
 <p align='right'><em><strong><code>return Python == <3</code></strong></em></p>
 
-<h3 align="right">Connect with me</h3>
+<h3 align="right">✨ Connect with me</h3>
 <p align="right">
   <a href="https://linkedin.com/in/satyam-vyas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
  alt="satyam-vyas" height="40" width="40" /></a>
@@ -15,20 +15,9 @@
   <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
 </p>
 
-
-### 💻 Tech Stack
-
-|                  |                                                                                                                                                                                                                                                                                 |
-| ---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Languages        | ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)                                                                                                                                                                                                                      |
-| Python           | ![My Skills](https://skillicons.dev/icons?i=regex,anaconda) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=44/> |
-| FrontEnd         | ![My Skills](https://skillicons.dev/icons?i=js,html,css)                                                                                                                                                                                                                        |
-| Libraries        | ![My Skills](https://skillicons.dev/icons?i=react,tailwind,sass,materialui)                                                                                                                                                                                           |
-| Databases        | ![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)                                                                                                                                                                                                                       |
-| OperatingSystems | ![My Skills](https://skillicons.dev/icons?i=linux) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=44 />                                                                                                              |
-| Shell            | ![My Skills](https://skillicons.dev/icons?i=pwsh,bash)                                                                                                                                                                                                                          |
-| VersionControl   | ![My Skills](https://skillicons.dev/icons?i=git,github)                                                                                                                                                                                                                         |
-| Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,blender&perline=4)                                                                                                                                                                               |
+### 🚀 Wakatime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### 📊 GitHub Stats:
