@@ -1,9 +1,6 @@
-<p align='center'><em><strong>Hello There! </strong></em><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='40'></p>
+<img width="50%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-![](https://drive.google.com/uc?export=view&id=1O21oNCgGJW3MDMQFGbA1eag7vLBDOmJF)
-
-<img width="45%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
+<p align='right'><em><strong>Hello There! </strong></em><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 <p align='right'><em><strong>Competitive Programmer (3 Star on CodeChef)</strong></em></p>
 <p align='right'><em><strong>Currently learning Web Development and DSA</strong></em></p>
 <p align='right'><em><strong>I’m looking to collaborate on Projects :) </strong></em></p>
@@ -18,7 +15,6 @@
   <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
 </p>
 
----
 
 ### 💻 Tech Stack
 
@@ -34,7 +30,6 @@
 | VersionControl   | ![My Skills](https://skillicons.dev/icons?i=git,github)                                                                                                                                                                                                                         |
 | Extras           | ![My Skills](https://skillicons.dev/icons?i=figma,md,latex,autocad,blender&perline=4)                                                                                                                                                                               |
 
----
 
 ### 📊 GitHub Stats:
 
