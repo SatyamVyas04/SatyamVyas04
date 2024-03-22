@@ -1,10 +1,10 @@
 <img width="50%" align="left" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<p align='right'><em><strong>Hello There! </strong></em><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
-<p align='right'><em><strong>Competitive Programmer (3 Star on CodeChef)</strong></em></p>
-<p align='right'><em><strong>Currently learning Web Development and DSA</strong></em></p>
-<p align='right'><em><strong>I’m looking to collaborate on Projects :) </strong></em></p>
-<p align='right'><em><strong><code>return Python == <3</code></strong></em></p>
+<p align='right'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
+<p align='right'><strong>Competitive Programmer (3 Star on CodeChef)</strong></p>
+<p align='right'><strong>Currently learning Web Development and DSA</strong></p>
+<p align='right'><strong>I’m looking to collaborate on Projects :) </strong></p>
+<p align='right'><strong><code>return Python == <3</code></strong></p>
 
 <h3 align="right">✨ Connect with me</h3>
 <p align="right">
@@ -14,6 +14,26 @@
   <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="satyam_vyas_04" height="40" width="40" /></a>
   <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
 </p>
+
+---
+
+<h3 align="center">Tech Stack</h3>
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-FFDD54?style=for-the-badge&logo=python&logoColor=3670A0"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"> 
+</p>
+
+<h4 align="center">Frameworks, Libraries and Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=black"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+<h4 align="center">Hosting/SaaS</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=black"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=black"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+---
 
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
