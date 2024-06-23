@@ -1,16 +1,20 @@
 <img width="50%" align="right" alt="side picture" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
-<p align='left'><strong>Competitive Programmer (3 Star on CodeChef)</strong></p>
-<p align='left'><strong>Currently learning Web Development and DSA</strong></p>
-<p align='left'><strong>I’m looking to collaborate on Projects :) </strong></p>
+
+
+  `1115 (Newbie) @CodeForces`
+  `1570 @ LeetCode`
+  `3⭐ @CodeChef`
+
 <p align='left'><strong><code>return Python == <3</code></strong></p>
 
 <h3 align="left">✨ A bit <code>Competitive</code></h3>
 <p align="left">
+  <a href="https://codeforces.com/profile/RockyLM010" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="satyam_vyas_04" height="40" /></a>
+  <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
   <a href="https://www.codechef.com/users/satyam_vyas_04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="satyam_vyas_04" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="satyam_vyas_04" height="40" width="40" /></a>
-  <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
 </p>
 
 ---
@@ -100,7 +104,9 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg#gh-dark-mode-only" height='225'/>
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='225'/>
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=nord&font=Inconsolata&ext=heatmap" height="225"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=dark&font=Roboto&ext=heatmap" height="225"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=RockyLM010&theme=tokyonight&disable_animations=true&show_icons=true&force_username=false" height="225"/>
+  
   
 </p>
 
