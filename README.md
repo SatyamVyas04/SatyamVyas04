@@ -1,8 +1,8 @@
-<a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank"><img width="50%" align="right" alt="side picture" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge"/></a>
 
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 
-  `1556 @ LeetCode`
+  `1556 @LeetCode`
   `3⭐ @CodeChef`
 
 <p align='left'><strong><code>return Python == <3</code></strong></p>
