@@ -1,9 +1,30 @@
-<a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge"/></a>
-
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 
-  `1556 @LeetCode`
-  `3⭐ @CodeChef`
+```json
+{
+  "name": "Satyam Vyas",
+  "role": "Web Developer",
+  "focus": [
+    "MERN Stack Development",
+    "Competitive Programming",
+    "Machine Learning (Learning)"
+  ],
+  "languages": [
+    "JavaScript",
+    "Python"
+  ],
+  "experience": {
+    "webDev": "Full-stack applications",
+    "competitiveProgramming": "Problem-solving and algorithms"
+  },
+  "currentLearning": "Machine Learning",
+  "openTo": [
+    "Collaborations",
+    "Project Discussions",
+    "Learning Opportunities"
+  ]
+}
+```
 
 <p align='left'><strong><code>return Python == <3</code></strong></p>
 
@@ -109,6 +130,7 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='225'/>
   <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=dark&font=Roboto&ext=heatmap" height="225"/>
   <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=RockyLM010&theme=tokyonight&disable_animations=true&show_icons=true&force_username=false" height="225"/>
+  <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank" height='225'><img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height='225'/></a>
   
   
 </p>
