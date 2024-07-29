@@ -62,11 +62,15 @@
 [![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
 
 <p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg" height='225'/>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg" height='225'/>
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Poppins&ext=heatmap" height="225"/>
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="225"/>
-  <img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height='225'/>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg"/>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg"/>
+  <br />
+  <br />
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="250"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="250"/>
+  <br />
+  <br />
+  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge"/>
 </p>
 
 ---
