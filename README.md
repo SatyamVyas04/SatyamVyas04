@@ -127,7 +127,7 @@ Java                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg#gh-dark-mode-only" height='225'/>
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='225'/>
   <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=dark&font=Roboto&ext=heatmap" height="225"/>
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=RockyLM010&theme=tokyonight&disable_animations=true&show_icons=true&force_username=false" height="225"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=tokyonight&disable_animations=true&show_icons=true&force_username=false" height="225"/>
   <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank" height='225'><img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height='225'/></a>
   
   
