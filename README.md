@@ -10,8 +10,8 @@
     "Machine Learning (Learning)"
   ],
   "languages": [
-    "JavaScript",
-    "Python"
+    "Python",
+    "JavaScript"
   ],
   "experience": {
     "webDev": "Full-stack applications",
@@ -53,6 +53,20 @@
 <h4 align="center">Hosting/SaaS</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=black"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=black"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+---
+
+### 📊 My Stats:
+
+[![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
+
+<p align='center'>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg" height='225'/>
+  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg" height='225'/>
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Poppins&ext=heatmap" height="225"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="225"/>
+  <img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height='225'/>
 </p>
 
 ---
@@ -112,25 +126,10 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Java                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.94 % 
 ```
 
-
-
-
- Last Updated on 28/07/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
 
-
-### 📊 GitHub Stats:
-
-[![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
-
 <p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg#gh-dark-mode-only" height='225'/>
-  <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg#gh-dark-mode-only" height='225'/>
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=dark&font=Roboto&ext=heatmap" height="225"/>
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=tokyonight&disable_animations=true&show_icons=true&force_username=false" height="225"/>
-  <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" target="_blank" height='225'><img src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height='225'/></a>
-  
-  
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif" align=center>
 </p>
 
 <p align='center'>
