@@ -65,12 +65,9 @@
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg"/>
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg"/>
   <br />
-  <br />
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="250"/>
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="250"/>
-  <br />
-  <br />
-  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="200"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="200"/>
+  <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height="200"/>
 </p>
 
 ---
