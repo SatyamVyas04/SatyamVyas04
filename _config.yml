@@ -6,4 +6,4 @@ author:
 description: "Some insight on me @SatyamVyas04"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: pages-themes/architect@v0.2.0
