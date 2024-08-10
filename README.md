@@ -1,7 +1,8 @@
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 
 ```json
-"name": "Satyam Vyas",
+{
+  "name": "Satyam Vyas",
   "role": "Web Developer",
   "languages": [
     "Python", "JavaScript"
@@ -16,6 +17,7 @@
     "Project Discussions",
     "Learning Opportunities"
   ]
+}
 ```
 
 <p align='left'><strong><code>return Python == <3</code></strong></p>
