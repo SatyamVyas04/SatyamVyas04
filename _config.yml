@@ -1,0 +1,9 @@
+# Site settings
+title: SatyamVyas04
+author:
+  name: Satyam
+  email: vyas.satyam.04@gmail.com
+description: "Some insight on me @SatyamVyas04"
+
+# Build settings
+remote_theme: jekyll/minima
