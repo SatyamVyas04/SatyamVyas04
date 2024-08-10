@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{{ page.title }}</title>
+		<link
+			rel="stylesheet"
+			href="{{ '/assets/css/custom.css' | relative_url }}"
+		/>
+		<link
+			rel="stylesheet"
+			href="{{ '/assets/css/just-the-docs.css' | relative_url }}"
+		/>
+	</head>
+	<body>
+		<header>
+			<h1>{{ site.title }}</h1>
+			<nav>
+				<ul>
+					<li><a href="{{ '/' | relative_url }}">Home</a></li>
+					<!-- Add more navigation links here -->
+				</ul>
+			</nav>
+		</header>
+
+		<main>{{ content }}</main>
+
+		<footer>
+			<p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+		</footer>
+
+		<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
+	</body>
+</html>
