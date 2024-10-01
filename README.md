@@ -31,14 +31,14 @@
     <tr>
       <th align="left">Technology</th>
       <th align="left">Specialization</th>
-      <th align="left">Tech Stack</th>
+      <th align="right">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="1">Core Programming</td>
       <td>The Basics</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/python-FFDD54?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -48,7 +48,7 @@
     <tr>
       <td rowspan="7">Web Technologies</td>
       <td>The Foundation</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td>Frameworks & Libraries</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td>Backend & Auth</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td>UI & Styling</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
         <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI">
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
@@ -89,14 +89,14 @@
     </tr>
     <tr>
       <td>Animation</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GreenSock">
         <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
       </td>
     </tr>
     <tr>
       <td>Data Management</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <td>BaaS/SaaS</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase">
         <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary">
@@ -114,7 +114,7 @@
     <tr>
       <td>Data Science</td>
       <td>Analysis Libraries</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
@@ -123,7 +123,7 @@
     <tr>
       <td rowspan="3">Development & DevOps</td>
       <td>Tools & Platforms</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
         <img src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
@@ -133,7 +133,7 @@
     </tr>
     <tr>
       <td>Hosting</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
         <img src="https://img.shields.io/badge/AWS%20Lightsail-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS Lightsail">
@@ -141,7 +141,7 @@
     </tr>
     <tr>
       <td>Productivity</td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
         <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime">
       </td>
