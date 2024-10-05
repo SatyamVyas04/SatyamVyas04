@@ -1,16 +1,29 @@
 <p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
 
-```json
+```http
+HTTP/1.1 200 OK
+Date: Fri, 05 Oct 2024 15:04:00 GMT
+Server: SixLadders/1.0 (Ubuntu)
+Content-Type: application/json
+Connection: keep-alive
+Last-Modified: Thu, 05 Oct 2024 23:27:00 GMT
+ETag: "skills-v1.1"
+X-Powered-By: Python/3.11, Node.js/18
+Machine: x86_64-linux-gnu
+Transfer-Encoding: chunked
+
 {
-  "name": "Satyam Vyas",
-  "role": "Web Developer",
-  "languages": [
-    "Python", "JavaScript"
-  ],
-  "experience": {
-    "webDev": "Full-stack application development",
-    "competitiveProgramming": "Problem-solving and algorithms"
-  },
+  "developer": {
+    "name": "Satyam Vyas",
+    "age": 20,
+    "location": "Mumbai, India",
+    "interests": [
+      "Full-stack development",
+      "Machine learning",
+      "Competitive programming",
+      "Exploring new technologies"
+    ],
+  }
 }
 ```
 
