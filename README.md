@@ -3,7 +3,7 @@
 ```http
 HTTP/1.1 200 OK
 Date: Fri, 05 Oct 2024 15:04:00 GMT
-Server: SixLadders/1.0 (Ubuntu)
+Server: Mumbai/1.0 (Ubuntu)
 Content-Type: application/json
 Connection: keep-alive
 Last-Modified: Thu, 05 Oct 2024 23:27:00 GMT
