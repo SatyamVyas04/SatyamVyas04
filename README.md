@@ -19,8 +19,8 @@ Transfer-Encoding: chunked
     "location": "Mumbai, India",
     "interests": [
       "Full-stack development",
-      "Machine learning",
       "Competitive programming",
+      "Machine learning",
       "Exploring new technologies"
     ],
   }
