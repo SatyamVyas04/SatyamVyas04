@@ -188,6 +188,8 @@ Transfer-Encoding: chunked
 
 > 📦 312.3 kB Used in GitHub's Storage 
  > 
+> 🏆 996 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
