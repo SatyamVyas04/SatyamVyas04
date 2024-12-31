@@ -20,7 +20,6 @@ Transfer-Encoding: chunked
     "interests": [
       "Full-stack development",
       "Competitive programming",
-      "Machine learning",
       "Exploring new technologies"
     ],
   }
