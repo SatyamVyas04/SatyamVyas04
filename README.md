@@ -56,6 +56,7 @@ Transfer-Encoding: chunked
         <img src="https://img.shields.io/badge/java-151b23.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00" alt="Java">
         <img src="https://img.shields.io/badge/c-151b23.svg?style=for-the-badge&logo=c" alt="C">
         <img src="https://img.shields.io/badge/c++-151b23.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
+        <img src="https://img.shields.io/badge/go-151b23?style=for-the-badge&logo=go" alt="Go">
       </td>
     </tr>
     <tr>
