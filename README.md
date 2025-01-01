@@ -173,9 +173,9 @@ Transfer-Encoding: chunked
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/overview.svg"/>
   <img align="center" src="https://raw.githubusercontent.com/SatyamVyas04/README-Stats/master/generated/languages.svg"/>
   <br />
-  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="180"/>
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="180"/>
-  <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height="180"/></a>
+  <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="220"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="220"/>
+<!--   <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height="180"/></a> -->
 </p>
 
 ---
