@@ -74,6 +74,7 @@ Transfer-Encoding: chunked
       <td align="right">
         <img src="https://img.shields.io/badge/Next-151b23?style=for-the-badge&logo=next.js" alt="Next.js">
         <img src="https://img.shields.io/badge/react-151b23.svg?style=for-the-badge&logo=react" alt="React">
+        <img src="https://img.shields.io/badge/-React%20Query-151b23?style=for-the-badge&logo=react%20query&logoColor=FF4154" alt="React Query">
         <img src="https://img.shields.io/badge/React_Router-151b23?style=for-the-badge&logo=react-router" alt="React Router">
         <img src="https://img.shields.io/badge/React%20Hook%20Form-151b23.svg?style=for-the-badge&logo=reacthookform" alt="React Hook Form">
         <img src="https://img.shields.io/badge/Zod-151b23?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod">
@@ -87,6 +88,7 @@ Transfer-Encoding: chunked
         <img src="https://img.shields.io/badge/express.js-0d1117.svg?style=for-the-badge&logo=express" alt="Express.js">
         <img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js" alt="Node.js">
         <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+        <img src="https://img.shields.io/badge/NextAuth.js-0d1117?style=for-the-badge&logo=next.js" alt="NextAuth.js">
         <img src="https://img.shields.io/badge/Clerk-0d1117?logo=clerk&style=for-the-badge&logoColor=%23654bf6" alt="Clerk">
       </td>
     </tr>
@@ -106,6 +108,8 @@ Transfer-Encoding: chunked
       <td align="right">
         <img src="https://img.shields.io/badge/green%20sock-0d1117?style=for-the-badge&logo=greensock" alt="GreenSock">
         <img src="https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
+        <img src="https://img.shields.io/badge/p5.js-0d1117?style=for-the-badge&logo=p5.js&logoColor=ED225D" alt="p5">
+        <img src="https://img.shields.io/badge/Lottie-0d1117?style=for-the-badge&logo=lottiefiles&logoColor=00DDB3" alt="Lottie">
       </td>
     </tr>
     <tr>
@@ -148,16 +152,11 @@ Transfer-Encoding: chunked
     <tr>
       <td>Hosting</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/docker-%23151b23.svg?style=for-the-badge&logo=docker" alt="Docker">
         <img src="https://img.shields.io/badge/vercel-%23151b23.svg?style=for-the-badge&logo=vercel" alt="Vercel">
+        <img src="https://img.shields.io/badge/github%20pages-151b23?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
+        <img src="https://img.shields.io/badge/netlify-%23151b23.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+        <img src="https://img.shields.io/badge/Render-%23151b23.svg?style=for-the-badge&logo=render&logoColor=ffffff" alt="Render">
         <img src="https://img.shields.io/badge/AWS%20Lightsail-%23151b23.svg?style=for-the-badge&logo=aws" alt="AWS Lightsail">
-      </td>
-    </tr>
-    <tr>
-      <td>Productivity</td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion" alt="Notion">
-        <img src="https://img.shields.io/badge/WakaTime-0d1117?style=for-the-badge&logo=WakaTime" alt="Wakatime">
       </td>
     </tr>
   </tbody>
