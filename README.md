@@ -187,7 +187,9 @@ Transfer-Encoding: chunked
 
 **🐱 My GitHub Data** 
 
-> 📦 483.8 kB Used in GitHub's Storage 
+> 📦 483.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 645 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -220,12 +222,10 @@ Sunday                   389 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-JavaScript               20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.73 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.27 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-InvincibleRead           17 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.82 % 
-BFMA-MiniApp             3 mins              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.18 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
