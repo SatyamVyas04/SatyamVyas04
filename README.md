@@ -181,13 +181,13 @@ Transfer-Encoding: chunked
 
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 453.1 kB Used in GitHub's Storage 
+> 📦 453.2 kB Used in GitHub's Storage 
  > 
 > 🏆 664 Contributions in the Year 2025
  > 
@@ -222,10 +222,12 @@ Sunday                   422 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.70 % 
+Markdown                 15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.23 % 
+Other                    2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Summariser               36 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
