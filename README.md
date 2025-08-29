@@ -41,7 +41,7 @@ Transfer-Encoding: chunked
   <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" height="40" width="40" /></a>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h3 align="right">Tech Stack</h2>
 <table width="100%">
    <thead>
       <tr>
