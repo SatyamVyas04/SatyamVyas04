@@ -1,14 +1,12 @@
-<p align='left'><strong>Hello There! </strong><img src='https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif' height='50'></p>
-
 ```http
 HTTP/1.1 200 OK
-Date: Fri, 05 Oct 2024 15:04:00 GMT
+Date: Sat, 30 Aug 2025 15:04:00 GMT
 Server: Mumbai/1.0 (Ubuntu)
 Content-Type: application/json
 Connection: keep-alive
-Last-Modified: Thu, 05 Oct 2024 23:27:00 GMT
-ETag: "skills-v1.1"
-X-Powered-By: Python/3.11, Node.js/18
+Last-Modified: Sat, 30 Aug 2025 23:27:00 GMT
+ETag: "skills-v2.0"
+X-Powered-By: Java/17, Node.js/20, Go/1.22
 Machine: x86_64-linux-gnu
 Transfer-Encoding: chunked
 
@@ -17,28 +15,33 @@ Transfer-Encoding: chunked
     "name": "Satyam Vyas",
     "age": 21,
     "location": "Mumbai, India",
-    "interests": [
-      "Full-stack development",
-      "Competitive programming",
-      "Exploring new technologies"
+    "status": [
+      "Upcoming SWE @Barclays"
+      "Ex-SWE Intern @Barclays",
     ],
+    "interests": [
+      "Full Stack Web Development"
+      "Competitive Programming and Problem Solving",
+      "Building RESTful API Tools and Automation Systems"
+    ],
+    "education": {
+      "degree": "B.Tech in Computer Engineering",
+      "institute": "SPIT, Mumbai",
+      "cgpa": "don't care"
+    }
   }
 }
 ```
 
-<p align='left'><strong><code>return Python == <3</code></strong></p>
-
-<h3 align="left">✨ A bit <code>Competitive</code></h3>
+<h3 align="left">A bit <code>Competitive</code></h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/SatyamVyas04" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="satyam_vyas_04" height="40" /></a>
-  <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="satyam_vyas_04" height="40" width="40" /></a>
-  <a href="https://www.codechef.com/users/satyam_vyas_04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="satyam_vyas_04" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="satyam_vyas_04" height="40" width="40" /></a>
+  <a href="https://codeforces.com/profile/SatyamVyas04" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" alt="Codeforces" height="40" /></a>
+  <a href="https://www.leetcode.com/user0872ue" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" height="40" width="40" /></a>
+  <a href="https://www.codechef.com/users/satyam_vyas_04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="CodeChef" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/satyam_vyas_04" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" height="40" width="40" /></a>
 </p>
 
----
-
-<h2 align="right">Tech Stack 🖥️</h2>
+<h2 align="right">Tech Stack</h2>
 <table>
   <thead>
     <tr>
@@ -49,112 +52,106 @@ Transfer-Encoding: chunked
   </thead>
   <tbody>
     <tr>
-      <td rowspan="1">Core Programming</td>
-      <td>The Basics</td>
+      <td>Core Programming</td>
+      <td>Backend & Problem Solving</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/python-151b23?style=for-the-badge&logo=python" alt="Python">
-        <img src="https://img.shields.io/badge/java-151b23.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00" alt="Java">
-        <img src="https://img.shields.io/badge/c-151b23.svg?style=for-the-badge&logo=c" alt="C">
-        <img src="https://img.shields.io/badge/c++-151b23.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
-        <img src="https://img.shields.io/badge/go-151b23?style=for-the-badge&logo=go" alt="Go">
+        <img src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00" alt="Java">
+        <img src="https://img.shields.io/badge/Python-151b23?style=for-the-badge&logo=python" alt="Python">
+        <img src="https://img.shields.io/badge/C++-151b23.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" alt="C++">
+        <img src="https://img.shields.io/badge/C-151b23.svg?style=for-the-badge&logo=c" alt="C">
+        <img src="https://img.shields.io/badge/Go-151b23?style=for-the-badge&logo=go" alt="Go">
       </td>
     </tr>
     <tr>
-      <td rowspan="7">Web Technologies</td>
-      <td>The Foundation</td>
+      <td>Backend & APIs</td>
+      <td>Microservices & Authentication</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/html5-0d1117.svg?style=for-the-badge&logo=html5" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3">
-        <img src="https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript" alt="JavaScript">
-        <img src="https://img.shields.io/badge/typescript-0d1117.svg?style=for-the-badge&logo=typescript" alt="TypeScript">
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks & Libraries</td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/Next-151b23?style=for-the-badge&logo=next.js" alt="Next.js">
-        <img src="https://img.shields.io/badge/react-151b23.svg?style=for-the-badge&logo=react" alt="React">
-        <img src="https://img.shields.io/badge/-React%20Query-151b23?style=for-the-badge&logo=react%20query&logoColor=FF4154" alt="React Query">
-        <img src="https://img.shields.io/badge/React_Router-151b23?style=for-the-badge&logo=react-router" alt="React Router">
-        <img src="https://img.shields.io/badge/React%20Hook%20Form-151b23.svg?style=for-the-badge&logo=reacthookform" alt="React Hook Form">
-        <img src="https://img.shields.io/badge/Zod-151b23?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod">
-        <img src="https://img.shields.io/badge/redux-151b23.svg?style=for-the-badge&logo=redux&logoColor=%23593D88" alt="Redux">
-        <img src="https://img.shields.io/badge/Context--Api-151b23?style=for-the-badge&logo=react" alt="Context API">
-      </td>
-    </tr>
-    <tr>
-      <td>Backend & Auth</td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/express.js-0d1117.svg?style=for-the-badge&logo=express" alt="Express.js">
-        <img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express.js-0d1117.svg?style=for-the-badge&logo=express" alt="Express.js">
+        <img src="https://img.shields.io/badge/REST-0d1117?style=for-the-badge&logo=swagger" alt="REST">
         <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
         <img src="https://img.shields.io/badge/NextAuth.js-0d1117?style=for-the-badge&logo=next.js" alt="NextAuth.js">
         <img src="https://img.shields.io/badge/Clerk-0d1117?logo=clerk&style=for-the-badge&logoColor=%23654bf6" alt="Clerk">
+        <img src="https://img.shields.io/badge/BetterAuth-0d1117?style=for-the-badge&logo=betterauth&logoColor=white" alt="BetterAuth">
+        <img src="https://img.shields.io/badge/Convex-0d1117?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
       </td>
     </tr>
     <tr>
-      <td>UI & Styling</td>
+      <td>Frontend Development</td>
+      <td>UI & Web Apps</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/MUI-151b23.svg?style=for-the-badge&logo=mui" alt="MUI">
-        <img src="https://img.shields.io/badge/chakra-151b23.svg?style=for-the-badge&logo=chakraui" alt="Chakra UI">
-        <img src="https://img.shields.io/badge/SASS-151b23.svg?style=for-the-badge&logo=SASS" alt="SASS">
-        <img src="https://img.shields.io/badge/tailwindcss-151b23.svg?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/bootstrap-151b23.svg?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/chart.js-151b23.svg?style=for-the-badge&logo=chart.js" alt="Chart.js">
+        <img src="https://img.shields.io/badge/Next.js-151b23?style=for-the-badge&logo=nextdotjs" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-151b23?style=for-the-badge&logo=react" alt="React">
+        <img src="https://img.shields.io/badge/React%20Query-151b23?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="React Query">
+        <img src="https://img.shields.io/badge/React_Router-151b23?style=for-the-badge&logo=react-router" alt="React Router">
+        <img src="https://img.shields.io/badge/Zod-151b23?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod">
+        <img src="https://img.shields.io/badge/Redux-151b23?style=for-the-badge&logo=redux&logoColor=%23593D88" alt="Redux">
+        <img src="https://img.shields.io/badge/TailwindCSS-151b23?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/MUI-151b23?style=for-the-badge&logo=mui" alt="MUI">
+        <img src="https://img.shields.io/badge/chakra-151b23?style=for-the-badge&logo=chakraui" alt="Chakra UI">
+        <img src="https://img.shields.io/badge/SASS-151b23?style=for-the-badge&logo=SASS" alt="SASS">
+        <img src="https://img.shields.io/badge/bootstrap-151b23?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/chart.js-151b23?style=for-the-badge&logo=chart.js" alt="Chart.js">
       </td>
     </tr>
     <tr>
       <td>Animation</td>
+      <td>Interactive UI</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/green%20sock-0d1117?style=for-the-badge&logo=greensock" alt="GreenSock">
         <img src="https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
+        <img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock" alt="GSAP">
         <img src="https://img.shields.io/badge/p5.js-0d1117?style=for-the-badge&logo=p5.js&logoColor=ED225D" alt="p5">
         <img src="https://img.shields.io/badge/Lottie-0d1117?style=for-the-badge&logo=lottiefiles&logoColor=00DDB3" alt="Lottie">
       </td>
     </tr>
     <tr>
       <td>Data Management</td>
+      <td>SQL & NoSQL</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/MongoDB-151b23.svg?style=for-the-badge&logo=mongodb" alt="MongoDB">
         <img src="https://img.shields.io/badge/PostgreSQL-151b23?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/mysql-151b23.svg?style=for-the-badge&logo=mysql" alt="MySQL">
-        <img src="https://img.shields.io/badge/sqlite-151b23.svg?style=for-the-badge&logo=sqlite" alt="SQLite">
+        <img src="https://img.shields.io/badge/MongoDB-151b23?style=for-the-badge&logo=mongodb" alt="MongoDB">
+        <img src="https://img.shields.io/badge/MySQL-151b23?style=for-the-badge&logo=mysql" alt="MySQL">
+        <img src="https://img.shields.io/badge/SQLite-151b23?style=for-the-badge&logo=sqlite" alt="SQLite">
       </td>
     </tr>
     <tr>
-      <td>BaaS/SaaS</td>
+      <td>BaaS / SaaS</td>
+      <td>Hosting & Media</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/Supabase-0d1117?logo=supabase&style=for-the-badge" alt="Supabase">
-        <img src="https://img.shields.io/badge/firebase-0d1117.svg?style=for-the-badge&logo=firebase&logoColor=%23ffca28" alt="Firebase">
-        <img src="https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=Cloudinary&logoColor=%233448C5" alt="Cloudinary">
+        <img src="https://img.shields.io/badge/Firebase-0d1117.svg?style=for-the-badge&logo=firebase&logoColor=%23ffca28" alt="Firebase">
+        <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase" alt="Supabase">
+        <img src="https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=cloudinary&logoColor=%233448C5" alt="Cloudinary">
       </td>
     </tr>
     <tr>
       <td>Data Science</td>
-      <td>Analysis Libraries</td>
+      <td>Analysis & ML</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/numpy-151b23.svg?style=for-the-badge&logo=numpy&logoColor=%23777BB4" alt="NumPy">
-        <img src="https://img.shields.io/badge/pandas-151b23.svg?style=for-the-badge&logo=pandas&logoColor=%232C2D72" alt="Pandas">
+        <img src="https://img.shields.io/badge/Numpy-151b23?style=for-the-badge&logo=numpy&logoColor=%23777BB4" alt="NumPy">
+        <img src="https://img.shields.io/badge/Pandas-151b23?style=for-the-badge&logo=pandas&logoColor=%232C2D72" alt="Pandas">
         <img src="https://img.shields.io/badge/scikit--learn-151b23.svg?style=for-the-badge&logo=scikit-learn" alt="scikit-learn">
       </td>
     </tr>
     <tr>
-      <td rowspan="3">Development & DevOps</td>
+      <td rowspan="2">Development & DevOps</td>
       <td>Tools & Platforms</td>
       <td align="right">
         <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman" alt="Postman">
-        <img src="https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma" alt="Figma">
-        <img src="https://img.shields.io/badge/jupyter-%230d1117.svg?style=for-the-badge&logo=jupyter" alt="Jupyter">
+        <img src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=figma" alt="Figma">
+        <img src="https://img.shields.io/badge/Jupyter-%230d1117.svg?style=for-the-badge&logo=jupyter" alt="Jupyter">
         <img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=Swagger" alt="Swagger">
-        <img src="https://img.shields.io/badge/tmux-%230d1117.svg?style=for-the-badge&logo=tmux" alt="Tmux">
+        <img src="https://img.shields.io/badge/Tmux-%230d1117.svg?style=for-the-badge&logo=tmux" alt="Tmux">
+        <img src="https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+        <img src="https://img.shields.io/badge/GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=orange" alt="GitLab">
       </td>
     </tr>
     <tr>
       <td>Hosting</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/vercel-%23151b23.svg?style=for-the-badge&logo=vercel" alt="Vercel">
-        <img src="https://img.shields.io/badge/github%20pages-151b23?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
-        <img src="https://img.shields.io/badge/netlify-%23151b23.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+        <img src="https://img.shields.io/badge/Vercel-%23151b23.svg?style=for-the-badge&logo=vercel" alt="Vercel">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-151b23?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
+        <img src="https://img.shields.io/badge/Netlify-%23151b23.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
         <img src="https://img.shields.io/badge/Render-%23151b23.svg?style=for-the-badge&logo=render&logoColor=ffffff" alt="Render">
         <img src="https://img.shields.io/badge/AWS%20Lightsail-%23151b23.svg?style=for-the-badge&logo=aws" alt="AWS Lightsail">
       </td>
@@ -162,9 +159,7 @@ Transfer-Encoding: chunked
   </tbody>
 </table>
 
----
-
-### 📊 My Stats:
+### My Stats
 
 [![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
 
@@ -174,74 +169,11 @@ Transfer-Encoding: chunked
   <br />
   <img align="center" src="https://leetcard.jacoblin.cool/user0872ue?theme=wtf&font=Fira+Code&ext=heatmap" height="220"/>
   <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=SatyamVyas04&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="220"/>
-<!--   <a href="https://gitroll.io/profile/uh4IiLyg3OQcRdJAoUo2FsyUr4g33"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/uh4IiLyg3OQcRdJAoUo2FsyUr4g33" alt="GitRoll Profile Badge" height="180"/></a> -->
 </p>
 
----
+### Wakatime Stats
 
-### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2051%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 453.5 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                293 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.24 % 
-🌆 Daytime                1706 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.80 % 
-🌃 Evening                897 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.29 % 
-🌙 Night                  275 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.67 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   771 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.31 % 
-Tuesday                  269 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.48 % 
-Wednesday                356 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.23 % 
-Thursday                 433 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.65 % 
-Friday                   532 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.78 % 
-Saturday                 322 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.15 % 
-Sunday                   488 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.29 % 
-TypeScript               2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.93 % 
-Python                   1 min               ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.31 % 
-Prisma                   0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 % 
-
-🐱‍💻 Projects: 
-Avruti                   6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.69 % 
-FDS                      1 min               ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.31 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               16 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.03 % 
-JavaScript               14 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.90 % 
-Python                   6 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.38 % 
-HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 % 
-Jupyter Notebook         1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 % 
-```
-
-
-
 
 <!--END_SECTION:waka-->
 
