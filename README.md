@@ -52,7 +52,7 @@ Transfer-Encoding: chunked
    </thead>
    <tbody>
       <tr>
-         <td rowspan="2"><b>Core Programming & Data Science</b></td>
+         <td rowspan="2"><b>Core Programming</b></td>
          <td>Problem Solving</td>
          <td align="right">
             <img src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
